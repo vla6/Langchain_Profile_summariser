@@ -1,4 +1,7 @@
 # Langchain Profile Summariser
+
+**This is a fork from [omkmorendha](https://github.com/omkmorendha/Langchain_Profile_summariser/tree/main)**
+
 A Langchain application that uses OpenAI, SerpAPI, Nubela API to find information and make inferences about someone using only their name.
 
 APIs used:
